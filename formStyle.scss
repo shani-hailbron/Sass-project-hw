@@ -1,0 +1,32 @@
+@use 'colors';
+
+
+
+
+label {
+ color: colors.$pink;
+}
+
+
+
+
+%input-design{
+    width: 500px;
+    height: 300px;
+    background-color: colors.$yellow;
+}
+
+
+#firstName{
+    @extend %input-design;
+}
+
+#lastName{
+    @extend %input-design;
+}
+#age{
+    @extend %input-design;
+}
+
+
+
