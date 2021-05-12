@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":[],"names":[],"mappings":"","file":"formStyle.css"}
+{"version":3,"sourceRoot":"","sources":["formStyle.scss","_colors.scss"],"names":[],"mappings":"AAKA;EACC,OCDK;;;ADON;EACI;EACA;EACA,kBCbK","file":"formStyle.css"}
